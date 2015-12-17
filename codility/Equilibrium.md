@@ -1,5 +1,6 @@
 
 #Task description
+```
 This is a demo task. You can read about this task and its solutions in this blog post.
 
 A zero-indexed array A consisting of N integers is given. An equilibrium index of this array is any integer P such that 0 ≤ P < N and the sum of elements of lower indices is equal to the sum of elements of higher indices, i.e. 
@@ -46,3 +47,4 @@ Complexity:
 expected worst-case time complexity is O(N);
 expected worst-case space complexity is O(N), beyond input storage (not counting the storage required for input arguments).
 Elements of input arrays can be modified.
+```
